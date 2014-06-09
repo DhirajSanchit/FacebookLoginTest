@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FacebookLoginTest.iml" filepath="$PROJECT_DIR$/FacebookLoginTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntegratingFacebookTutorial-Android.iml" filepath="$PROJECT_DIR$/IntegratingFacebookTutorial-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facebook/facebook.iml" filepath="$PROJECT_DIR$/facebook/facebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integratingFacebookTutorialAndroid/integratingFacebookTutorialAndroid.iml" filepath="$PROJECT_DIR$/integratingFacebookTutorialAndroid/integratingFacebookTutorialAndroid.iml" />
+    </modules>
+  </component>
+</project>
+
